@@ -1,0 +1,42 @@
+body{
+    background-color: wheat;
+}
+.container{
+    width: 320px;
+    margin: 100px auto;
+    display: block;        
+}
+.foot{
+    text-align: center;
+    color: crimson;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+table{
+    width: 100%;
+    border-color: #f4f4f4;
+    background-color: white;
+}
+td{
+    width: 25%;
+    /* border: 0.001cm solid; */
+    /* border-color: black; */
+}
+button{
+    width: 100%;
+    height: 70px;
+    font-size: 1em;
+    background-color: white;
+    border: none;
+}
+#inputlabel{
+    height: 120px;
+    font-size: 30px;
+    vertical-align: bottom;
+    padding-right: 16px;
+    background-color: #ececec;
+    text-align: right;
+    overflow-wrap: anywhere;
+    color: crimson;
+}
